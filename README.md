@@ -9,9 +9,9 @@ A curated list of research papers and resources related to **Activation Engineer
 
 This repo delves into key areas such as concept representation, concept activation detection, and activation vector steering. The goal is to investigate how concepts are represented within LLMs, how these concepts can be activated or detected during model inference, and how to manipulate activation vectors for more targeted control over model behavior. By building on these ideas, we may unlock new methods for improving interpretability, increasing model control, and fostering more ethical and reliable deployment of LLMs in various applications.
 
-This repo serves as a resource for researchers and developers interested in the inner workings of neural networks and LLMs, offering tools, techniques, and experimental findings for advancing the field of activation engineering. Ongoing update.
+This repo serves as a resource for researchers and developers interested in the inner workings of neural networks and LLMs, offering tools, techniques, and experimental findings for advancing the field of activation engineering.
 
-> *If some related papers are missing, please contact us via pull requests :)*
+> *This repo is ongoing update; If some related papers are missing, please contact us via pull requests :)*
 
 ## Outline of this repo
 
