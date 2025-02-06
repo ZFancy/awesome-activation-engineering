@@ -10,12 +10,11 @@ A curated list of research papers and resources related to ***Activation Enginee
 
 ### What is "Activation Engineering"?
 
-*Activation engineering* (with LLMs) refers to the process of modifying or controlling the internal activation or intermediate output of neurons to analyze or influence model behavior, which is an emerging research feild related to model interpretability, neural network transparency, and controlled generation. It aims to better understand the internal workings of foundation models, particulaly with those high level concepts which are aligned with human cognitions.
+**Activation engineering** (with LLMs) refers to the process of modifying or controlling the internal activation or intermediate output of neurons to analyze or influence model behavior, which is an emerging research feild related to model interpretability, neural network transparency, and controlled generation. It aims to better understand the internal workings of foundation models, particulaly with those high level concepts which are aligned with human cognitions.
 
 ### How this repo is organized?
 
-Regarding the objectives of activation engineering in analyzing or steering model behavior with arbitrary concepts, this repo delves into the key related areas like concept representation, concept activation detection, and activation vector steering. The goal is to investigate how concepts are represented within the models, how these concepts can be activated or detected during model inference, and how to steer activation vectors for more targeted control over model behavior. By building on these ideas, we may unlock new methods for improving interpretability, increasing model control, and fostering more ethical and reliable deployment of LLMs in various applications.
-
+Regarding the objectives of activation engineering in analyzing or steering model behavior with arbitrary concepts, this repo delves into the key related areas like **concept representation and extraction**, **concept activation detection**, and **activation vector steering**. The goal is to investigate how concepts are represented within the models, how these concepts can be activated or detected during model inference, and how to steer activation vectors for more targeted control over model behavior. 
 
 -----
 
@@ -110,13 +109,6 @@ Methods about steering or manipulating activation vectors to influence model beh
 - [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
 - [Neel Nanda's Blog](https://www.neelnanda.io/mechanistic-interpretability/getting-started)
 - [Awesome Representation Engineering](https://github.com/chrisliu298/awesome-representation-engineering)
-
-## Contributing
-We welcome contributions to this list! If you have a paper, tool, or resource that fits into one of the categories, please submit a pull request or open an issue.
-
-1. Fork the repository.
-2. Add your contribution to the appropriate section.
-3. Submit a pull request with a brief description of your changes.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
