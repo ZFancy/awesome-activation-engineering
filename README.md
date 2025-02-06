@@ -26,10 +26,11 @@ This repo serves as a resource for researchers and developers interested in the 
 ### Concept Representation
 Papers and resources that explore how concepts are represented in model hidden states.
 
-- **NeurIPS 2024** - From Causal to Concept-Based Representation Learning. [[Paper](https://openreview.net/forum?id=r5nev2SHtJ)] [[Code](link)]
-- **The Linear Representation Hypothesis and the Geometry of Large Language Models** - Kiho Park, Yo Joong Choe, Victor Veitch, 2023-11. [[PDF](https://arxiv.org/abs/2311.03658)] [[Code](https://github.com/KihoPark/linear_rep_geometry)]
-- **Extracting Latent Steering Vectors from Pretrained Language Models** - Nishant Subramani, Nivedita Suresh, Matthew E. Peters, 2022-05. [[PDF](https://arxiv.org/abs/2205.05124)] [[Code](https://github.com/nishantsubramani/steering_vectors)]
-- **Demystifying Embedding Spaces using Large Language Models** - Guy Tennenholtz, Yinlam Chow, Chih-Wei Hsu, Jihwan Jeong, Lior Shani, Azamat Tulepbergenov, Deepak Ramachandran, Martin Mladenov, Craig Boutilier, 2023-10. [[PDF](https://arxiv.org/abs/2310.04475)]
+- [ICLR 2025] - **The Geometry of Categorical and Hierarchical Concepts in Large Language Models** - Kiho Park, Yo Joong Choe, Yibo Jiang, Victor Veitch. [[Paper](https://arxiv.org/abs/2406.01506)][[Code](https://github.com/KihoPark/LLM_Categorical_Hierarchical_Representations)]
+- [NeurIPS 2024] - **From Causal to Concept-Based Representation Learning** - Goutham Rajendran, Simon Buchholz, Bryon Aragam, Bernhard Schölkopf, Pradeep Kumar Ravikumar. [[Paper](https://openreview.net/forum?id=r5nev2SHtJ)] [[Code](link)]
+- [ICML 2024] - **The Linear Representation Hypothesis and the Geometry of Large Language Models** - Kiho Park, Yo Joong Choe, Victor Veitch, 2023-11. [[PDF](https://arxiv.org/abs/2311.03658)] [[Code](https://github.com/KihoPark/linear_rep_geometry)]
+- [ICLR 2024] - **Demystifying Embedding Spaces using Large Language Models** - Guy Tennenholtz, Yinlam Chow, Chih-Wei Hsu, Jihwan Jeong, Lior Shani, Azamat Tulepbergenov, Deepak Ramachandran, Martin Mladenov, Craig Boutilier, 2023-10. [[PDF](https://arxiv.org/abs/2310.04475)]
+- [ACL 2022] - **Extracting Latent Steering Vectors from Pretrained Language Models** - Nishant Subramani, Nivedita Suresh, Matthew E. Peters, 2022-05. [[PDF](https://arxiv.org/abs/2205.05124)] [[Code](https://github.com/nishantsubramani/steering_vectors)]
 
 ### Concept Activation Detection
 Research on methods to detect and identify specific concepts or features in activations.
