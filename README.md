@@ -1,14 +1,20 @@
-# Awesome Activation Engineering
+<h1 align="center"><b>Awesome Activation Engineering</b></h1>
+
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="awesome"></a>
+  <img src="https://img.shields.io/github/stars/ZFancy/awesome-activation-engineering?color=yellow&label=Star" alt="Stars" >
+</p>
 
 A curated list of research papers and resources related to **Activation Engineering** for Large Language Models (LLMs). This repository focuses on understanding and manipulating model activations toward building more transparent and controllable powerful intelligent.
 
 This repo delves into key areas such as concept representation, concept activation detection, and activation vector steering. The goal is to investigate how concepts are represented within LLMs, how these concepts can be activated or detected during model inference, and how to manipulate activation vectors for more targeted control over model behavior. By building on these ideas, we may unlock new methods for improving interpretability, increasing model control, and fostering more ethical and reliable deployment of LLMs in various applications.
 
-This repo serves as a resource for researchers and developers interested in the inner workings of neural networks and LLMs, offering tools, techniques, and experimental findings for advancing the field of activation engineering.
+This repo serves as a resource for researchers and developers interested in the inner workings of neural networks and LLMs, offering tools, techniques, and experimental findings for advancing the field of activation engineering. Ongoing update.
 
-## Table of Contents
+> *If some related papers are missing, please contact us via pull requests :)*
 
-- [Table of Contents](#table-of-contents)
+## Outline of this repo
+
 - [Categories](#categories)
   - [Concept Representation](#concept-representation)
   - [Concept Activation Detection](#concept-activation-detection)
