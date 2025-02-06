@@ -2,18 +2,27 @@
 
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="awesome"></a>
+  <img src="https://badges.toozhao.com/badges/01JKE9NZ8SDNSTTCKBASSND3D2/green.svg" />
   <img src="https://img.shields.io/github/stars/ZFancy/awesome-activation-engineering?color=yellow&label=Star" alt="Stars" >
 </p>
 
-A curated list of research papers and resources related to ***Activation Engineering*** for foundation models, especially the Large Language Models (LLMs). This repository focuses on understanding and manipulating model activations toward building more transparent and controllable powerful intelligent.
+A curated list of research papers and resources related to ***Activation Engineering*** for foundation models, especially the Large Language Models (LLMs). 
 
 ### What is "Activation Engineering"?
 
-This repo delves into key areas such as concept representation, concept activation detection, and activation vector steering. The goal is to investigate how concepts are represented within LLMs, how these concepts can be activated or detected during model inference, and how to manipulate activation vectors for more targeted control over model behavior. By building on these ideas, we may unlock new methods for improving interpretability, increasing model control, and fostering more ethical and reliable deployment of LLMs in various applications.
+*Activation engineering* (with LLMs) refers to the process of modifying or controlling the internal activation or intermediate output of neurons to analyze or influence model behavior, which is an emerging research feild related to model interpretability, neural network transparency, and controlled generation. It aims to better understand the internal workings of foundation models, particulaly with those high level concepts which are aligned with human cognitions.
 
-This repo serves as a resource for researchers and developers interested in the inner workings of neural networks and LLMs, offering tools, techniques, and experimental findings for advancing the field of activation engineering.
+### How this repo is organized?
+
+Regarding the objectives of activation engineering in analyzing or steering model behavior with arbitrary concepts, this repo delves into the key related areas like concept representation, concept activation detection, and activation vector steering. The goal is to investigate how concepts are represented within the models, how these concepts can be activated or detected during model inference, and how to steer activation vectors for more targeted control over model behavior. By building on these ideas, we may unlock new methods for improving interpretability, increasing model control, and fostering more ethical and reliable deployment of LLMs in various applications.
+
+
+-----
+
+This repo serves as a resource for researchers and developers interested in the inner workings of neural networks and LLMs, offering methods and experimental findings for advancing the field of activation engineering, which targets to understanding and manipulating model activations toward building more transparent and controllable powerful intelligent.
 
 > *This repo is ongoing update; If some related papers are missing, please contact us via pull requests :)*
+
 
 ## Outline of this repo
 
@@ -98,6 +107,8 @@ Methods about steering or manipulating activation vectors to influence model beh
 
 - [Activation Engineering - LessWrong](https://www.lesswrong.com/w/activation-engineering)
 - [Anthropic Transformer Ciruits Thread](https://transformer-circuits.pub)
+- [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
+- [Neel Nanda's Blog](https://www.neelnanda.io/mechanistic-interpretability/getting-started)
 - [Awesome Representation Engineering](https://github.com/chrisliu298/awesome-representation-engineering)
 
 ## Contributing
@@ -112,4 +123,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Disclaimer**: This repository is for educational and research purposes only. The papers and resources listed here are the property of their respective authors and organizations.
+**Disclaimer**: This repository is for research purposes only. The papers and resources listed here are the property of their respective authors.
