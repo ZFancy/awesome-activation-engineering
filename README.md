@@ -63,6 +63,7 @@ Research on methods to detect and identify specific concepts or features in acti
 Methods about steering or manipulating activation vectors to influence model behavior or outputs.
 
 - [arXiv 2025] - **AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders** - Zhengxuan Wu, Aryaman Arora, Atticus Geiger, Zheng Wang, Jing Huang, Dan Jurafsky, Christopher D. Manning, Christopher Potts. [[Paper](https://arxiv.org/abs/2501.17148)][[Code](https://arxiv.org/pdf/2501.17148)]
+- [ICLR 2025] - **Beyond Single Concept Vector: Modeling Concept Subspace in LLMs with Gaussian Distribution** - Haiyan Zhao, Heng Zhao, Bo Shen, Ali Payani, Fan Yang, Mengnan Du. [[Paper](https://arxiv.org/abs/2410.00153)]
 - [ICLR 2025] - **Programming Refusal with Conditional Activation Steering** - Bruce W. Lee, Inkit Padhi, Karthikeyan Natesan Ramamurthy, Erik Miehling, Pierre Dognin, Manish Nagireddy, Amit Dhurandhar. [[Paper](https://arxiv.org/abs/2409.05907)][[Code](https://github.com/IBM/activation-steering)]
 - [ICLR 2025] - **Semantics-Adaptive Activation Intervention for LLMs via Dynamic Steering Vectors** - Weixuan Wang, Jingyuan Yang, Wei Peng. [[Paper](https://arxiv.org/abs/2410.12299)] [[Code](https://github.com/weixuan-wang123/SADI)] 
 - [ICLR 2025] - **Improving Instruction-Following in Language Models through Activation Steering** - Alessandro Stolfo, Vidhisha Balachandran, Safoora Yousefi, Eric Horvitz, Besmira Nushi. [[Paper](https://arxiv.org/abs/2410.12877)][[Code](https://openreview.net/forum?id=wozhdnRCtw)]
