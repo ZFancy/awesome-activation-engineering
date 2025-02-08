@@ -38,6 +38,7 @@ This repo serves as a resource for researchers and developers interested in the 
 ### Concept Representation and Extraction
 Papers and resources that explore how concepts are represented in model hidden states.
 
+- [arXiv 2025] - **ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features** - Alec Helbling, Tuna Han Salih Meral, Ben Hoover, Pinar Yanardag, Duen Horng Chau. [[Paper](https://arxiv.org/abs/2502.04320)]
 - [ICLR 2025] - **The Geometry of Categorical and Hierarchical Concepts in Large Language Models** - Kiho Park, Yo Joong Choe, Yibo Jiang, Victor Veitch. [[Paper](https://arxiv.org/abs/2406.01506)][[Code](https://github.com/KihoPark/LLM_Categorical_Hierarchical_Representations)]
 - [NeurIPS 2024] - **Do LLMs dream of elephants (when told not to)? Latent concept association and associative memory in transformers** - Yibo Jiang, Goutham Rajendran, Pradeep Ravikumar, Bryon Aragam. [[Paper](https://arxiv.org/abs/2406.18400)][[Code](https://openreview.net/forum?id=WJ04ZX8txM&referrer=%5Bthe%20profile%20of%20Yibo%20Jiang%5D(%2Fprofile%3Fid%3D~Yibo_Jiang2))]
 - [NeurIPS 2024] - **From Causal to Concept-Based Representation Learning** - Goutham Rajendran, Simon Buchholz, Bryon Aragam, Bernhard Schölkopf, Pradeep Kumar Ravikumar. [[Paper](https://openreview.net/forum?id=r5nev2SHtJ)] [[Code](link)]
