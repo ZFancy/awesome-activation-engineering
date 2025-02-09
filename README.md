@@ -1,6 +1,7 @@
 <h1 align="center"><b>Awesome Activation Engineering</b></h1>
 
 <p align="center">
+  <a href="https://github.com/Zfancy/awesome-activation-engineering/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-yellow" alt="PRs"></a>
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="awesome"></a>
   <img src="https://badges.toozhao.com/badges/01JKE9NZ8SDNSTTCKBASSND3D2/green.svg" />
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-red.svg" alt="Liscence"></a>
