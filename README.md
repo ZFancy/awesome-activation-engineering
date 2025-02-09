@@ -46,6 +46,7 @@ Papers and resources that explore how concepts are represented in model hidden s
 - [NeurIPS 2024] - **From Causal to Concept-Based Representation Learning** - Goutham Rajendran, Simon Buchholz, Bryon Aragam, Bernhard Schölkopf, Pradeep Kumar Ravikumar. [[Paper](https://openreview.net/forum?id=r5nev2SHtJ)] [[Code](link)]
 - [ICML 2024] - **The Linear Representation Hypothesis and the Geometry of Large Language Models** - Kiho Park, Yo Joong Choe, Victor Veitch. [[Paper](https://arxiv.org/abs/2311.03658)] [[Code](https://github.com/KihoPark/linear_rep_geometry)]
 - [ICLR 2024] - **Demystifying Embedding Spaces using Large Language Models** - Guy Tennenholtz, Yinlam Chow, Chih-Wei Hsu, Jihwan Jeong, Lior Shani, Azamat Tulepbergenov, Deepak Ramachandran, Martin Mladenov, Craig Boutilier. [[Paper](https://arxiv.org/abs/2310.04475)]
+- [ACL 2024] - **Language Models Linearly Represent Sentiment** - Curt Tigges, Oskar J. Hollinsworth, Atticus Geiger, Neel Nanda. [[Paper](https://aclanthology.org/2024.blackboxnlp-1.5.pdf)]
 - [ACL 2015] - **Linguistic Regularities in Continuous Space Word Representations** - Tomas Mikolov, Wen-tau Yih, Geoffrey Zweig. [[Paper](https://aclanthology.org/N13-1090/)]
 
 ### Concept Activation Detection
