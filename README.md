@@ -47,6 +47,7 @@ Papers and resources that explore how concepts are represented in model hidden s
 - [NeurIPS 2024] - **From Causal to Concept-Based Representation Learning** - Goutham Rajendran, Simon Buchholz, Bryon Aragam, Bernhard Schölkopf, Pradeep Kumar Ravikumar. [[Paper](https://openreview.net/forum?id=r5nev2SHtJ)] [[Code](link)]
 - [ICML 2024] - **The Linear Representation Hypothesis and the Geometry of Large Language Models** - Kiho Park, Yo Joong Choe, Victor Veitch. [[Paper](https://arxiv.org/abs/2311.03658)] [[Code](https://github.com/KihoPark/linear_rep_geometry)]
 - [ICLR 2024] - **Demystifying Embedding Spaces using Large Language Models** - Guy Tennenholtz, Yinlam Chow, Chih-Wei Hsu, Jihwan Jeong, Lior Shani, Azamat Tulepbergenov, Deepak Ramachandran, Martin Mladenov, Craig Boutilier. [[Paper](https://arxiv.org/abs/2310.04475)]
+- [COLM 2024] - **The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets** - Samuel Marks, Max Tegmark. [[Paper](https://arxiv.org/abs/2310.06824)]
 - [ACL 2024] - **Language Models Linearly Represent Sentiment** - Curt Tigges, Oskar J. Hollinsworth, Atticus Geiger, Neel Nanda. [[Paper](https://aclanthology.org/2024.blackboxnlp-1.5.pdf)]
 - [ACL 2015] - **Linguistic Regularities in Continuous Space Word Representations** - Tomas Mikolov, Wen-tau Yih, Geoffrey Zweig. [[Paper](https://aclanthology.org/N13-1090/)]
 
@@ -81,13 +82,16 @@ Methods about steering or manipulating activation vectors to influence model beh
 - [NeurIPS 2024 workshop] - **Relational Composition in Neural Networks: A Survey and Call to Action** - Martin Wattenberg, Fernanda B. Viégas. [[Paper](https://arxiv.org/abs/2407.14662)]
 - [NeurIPS 2024 workshop] - **Can sparse autoencoders be used to decompose and interpret steering vectors?** - Harry Mayne, Yushi Yang, Adam Mahdi. [[Paper](https://arxiv.org/abs/2411.08790)] [[Code](https://github.com/HarryMayne/SV_interpretability)]
 - [NeurIPS 2024 workshop] - **Extracting Unlearned Information from LLMs with Activation Steering** - Atakan Seyitoğlu, Aleksei Kuvshinov, Leo Schwinn, Stephan Günnemann. [[Paper](https://arxiv.org/abs/2411.02631)]
+- [ICML 2024] - **In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering** - Sheng Liu, Haotian Ye, Lei Xing, James Zou. [[Paper](https://arxiv.org/abs/2311.06668)][[Code](https://github.com/shengliu66/ICV)]
 - [ICML 2024 workshop] - **Controlling Large Language Model Agents with Entropic Activation Steering** - Nate Rahn, Pierluca D'Oro, Marc G. Bellemare. [[Paper](https://arxiv.org/abs/2406.00244)]
+- [ICLR 2024] - **Function Vectors in Large Language Models** - Eric Todd, Millicent L. Li, Arnab Sen Sharma, Aaron Mueller, Byron C. Wallace, David Bau. [[Paper](https://arxiv.org/abs/2310.15213)][[Code](https://github.com/ericwtodd/function_vectors)]
 - [EMNLP 2024] - **Activation Scaling for Steering and Interpreting Language Models** - Niklas Stoehr, Kevin Du, Vésteinn Snæbjarnarson, Robert West, Ryan Cotterell, Aaron Schein. [[Paper](https://arxiv.org/abs/2410.04962)] [[Code](https://github.com/niklasstoehr/activationScaling)]
 - [EMNLP 2024] - **Householder Pseudo-Rotation: A Novel Approach to Activation Editing in LLMs with Direction-Magnitude Perspective** - Van-Cuong Pham, Thien Huu Nguyen. [[Paper](https://arxiv.org/abs/2409.10053)]
 - [ACL 2024] - **Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models** - Chen Qian, Jie Zhang, Wei Yao, Dongrui Liu, Zhenfei Yin, Yu Qiao, Yong Liu, Jing Shao. [[Paper](https://arxiv.org/abs/2402.19465)] [[Code](https://github.com/ChnQ/TracingLLM)]
 - [ACL 2024] - **InferAligner: Inference-Time Alignment for Harmlessness through Cross-Model Guidance** - Pengyu Wang, Dong Zhang, Linyang Li, Chenkun Tan, Xinghao Wang, Ke Ren, Botian Jiang, Xipeng Qiu. [[Paper](https://arxiv.org/abs/2401.11206)] [[Code](https://github.com/Jihuai-wpy/InferAligner)]
 - [ACL 2024] - **Steering Llama 2 via Contrastive Activation Addition** - Nina Rimsky, Nick Gabrieli, Julian Schulz, Meg Tong, Evan Hubinger, Alexander Matt Turner. [[Paper](https://arxiv.org/abs/2312.06681)] [[Code](https://github.com/nrimsky/CAA)]
 - [CIKM 2024] - **Trojan Activation Attack: Red-Teaming Large Language Models using Activation Steering for Safety-Alignment** - Haoran Wang, Kai Shu. [[Paper](https://arxiv.org/abs/2311.09433)] [[Code](https://github.com/wang2226/Backdoor-Activation-Attack)]
+- [arXiv 2024] - **Representation Engineering: A Top-Down Approach to AI Transparency** - Andy Zou et al. [[Paper](https://arxiv.org/abs/2310.01405)][[Code](https://github.com/andyzoujm/representation-engineering)]
 - [arXiv 2024] - **Improving Steering Vectors by Targeting Sparse Autoencoder Features** - Sviatoslav Chalnev, Matthew Siu, Arthur Conmy. [[Paper](https://arxiv.org/abs/2411.02193)] [[Code](https://github.com/slavachalnev/SAE-TS)]
 - [arXiv 2024] - **Uncovering Latent Chain of Thought Vectors in Language Models** - Jason Zhang, Scott Viteri. [[Paper](https://arxiv.org/abs/2409.14026)]
 - [arXiv 2024] - **Future Events as Backdoor Triggers: Investigating Temporal Vulnerabilities in LLMs** - Sara Price, Arjun Panickssery, Sam Bowman, Asa Cooper Stickland. [[Paper](https://arxiv.org/abs/2407.04108)]
@@ -98,6 +102,7 @@ Methods about steering or manipulating activation vectors to influence model beh
 - [arXiv 2024] - **MiMiC: Minimally Modified Counterfactuals in the Representation Space** - Shashwat Singh, Shauli Ravfogel, Jonathan Herzig, Roee Aharoni, Ryan Cotterell, Ponnurangam Kumaraguru. [[Paper](https://arxiv.org/abs/2402.09631)]
 - [arXiv 2024] - **Investigating Bias Representations in Llama 2 Chat via Activation Steering** - Dawn Lu, Nina Rimsky. [[Paper](https://arxiv.org/abs/2402.00402)]
 - [arXiv 2023] - **Improving Activation Steering in Language Models with Mean-Centring** - Ole Jorgensen, Dylan Cope, Nandi Schoots, Murray Shanahan. [[Paper](https://arxiv.org/abs/2312.03813)]
+- [EMNLP 2023] - **In-Context Learning Creates Task Vectors** - Roee Hendel, Mor Geva, Amir Globerson. [[Paper](https://arxiv.org/abs/2310.15916)]
 - [arXiv 2023] - **Activation Addition: Steering Language Models Without Optimization** - Alexander Matt Turner, Lisa Thiergart, David Udell, Gavin Leech, Ulisse Mini, Monte MacDiarmid. [[Paper](https://arxiv.org/abs/2308.10248)] [[Code](https://github.com/montemac/activation_additions)]
 - [ACL 2022] - **Extracting Latent Steering Vectors from Pretrained Language Models** - Nishant Subramani, Nivedita Suresh, Matthew E. Peters, 2022-05. [[Paper](https://arxiv.org/abs/2205.05124)] [[Code](https://github.com/nishantsubramani/steering_vectors)]
 
@@ -105,7 +110,6 @@ Methods about steering or manipulating activation vectors to influence model beh
 
 - [ICLR 2025] - **Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models** - Javier Ferrando, Oscar Obeso, Senthooran Rajamanoharan, Neel Nanda. [[Paper](https://arxiv.org/abs/2411.14257)]
 - [NeurIPS 2024] - **Concept Algebra for (Score-Based) Text-Controlled Generative Models** - Zihao Wang, Lin Gui, Jeffrey Negrea, Victor Veitch. [[Paper](https://arxiv.org/abs/2302.03693)][[Code](https://github.com/zihao12/concept-algebra-code)]
-- [arXiv 2024] - **Representation Engineering: A Top-Down Approach to AI Transparency** - Andy Zou et al. [[Paper](https://arxiv.org/abs/2310.01405)][[Code](https://github.com/andyzoujm/representation-engineering)]
 - [NeurIPS 2023] - **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** - Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg. [[Paper](https://arxiv.org/abs/2306.03341)][[Code](https://github.com/likenneth/honest_llama)]
 
 
