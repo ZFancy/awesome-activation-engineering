@@ -110,6 +110,7 @@ Methods about steering or manipulating activation vectors to influence model beh
 
 ### Collected Related Work (Uncategoried)
 
+- [arXiv 2025] - **LatentQA: Teaching LLMs to Decode Activations Into Natural Language** - Alexander Pan, Lijie Chen, Jacob Steinhardt. [[Paper](https://arxiv.org/abs/2412.08686)][[Code](https://github.com/aypan17/latentqa)]
 - [ICLR 2025] - **Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models** - Javier Ferrando, Oscar Obeso, Senthooran Rajamanoharan, Neel Nanda. [[Paper](https://arxiv.org/abs/2411.14257)]
 - [NeurIPS 2024] - **Concept Algebra for (Score-Based) Text-Controlled Generative Models** - Zihao Wang, Lin Gui, Jeffrey Negrea, Victor Veitch. [[Paper](https://arxiv.org/abs/2302.03693)][[Code](https://github.com/zihao12/concept-algebra-code)]
 - [NeurIPS 2023] - **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** - Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg. [[Paper](https://arxiv.org/abs/2306.03341)][[Code](https://github.com/likenneth/honest_llama)]
