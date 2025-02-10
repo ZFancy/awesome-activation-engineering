@@ -12,10 +12,12 @@ A curated list of research papers and resources related to ***Activation Enginee
 
 ### What is "Activation Engineering"?
 
-**Activation engineering** (with LLMs) refers to the process of modifying or controlling the internal activation or intermediate output of neurons to analyze or influence model behavior, which is an emerging research feild related to model interpretability, neural network transparency, and controlled generation. It aims to better understand the internal workings of foundation models, particulaly with those high level concepts which are aligned with human cognitions.
+> [!NOTE]
+> **Activation engineering** (with LLMs) refers to the process of modifying or controlling the internal activation or intermediate output of neurons to analyze or influence model behavior, which is an emerging research feild related to model interpretability, neural network transparency, and controlled generation. It aims to better understand the internal workings of foundation models, particulaly with those high level concepts which are aligned with human cognitions.
 
 ### How this repo is organized?
 
+> [!IMPORTANT]
 Regarding the objectives of activation engineering in analyzing or steering model behavior with arbitrary concepts, this repo delves into the key related areas like **concept representation and extraction**, **concept activation detection**, and **activation vector steering**. The goal is to investigate how concepts are represented within the models, how these concepts can be activated or detected during model inference, and how to steer activation vectors for more targeted control over model behavior. 
 
 -----
