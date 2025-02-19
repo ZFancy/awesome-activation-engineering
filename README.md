@@ -18,7 +18,7 @@ A curated list of research papers and resources related to ***Activation Enginee
 ### How this repo is organized?
 
 > [!IMPORTANT]
-Regarding the objectives of activation engineering in analyzing or steering model behavior with arbitrary concepts, this repo delves into the key related areas like **concept representation and extraction**, **concept activation detection**, and **activation vector steering**. The goal is to investigate how concepts are represented within the models, how these concepts can be activated or detected during model inference, and how to steer activation vectors for more targeted control over model behavior. 
+Regarding the objectives of activation engineering in analyzing or steering model behavior with arbitrary concepts, this repo delves into the key related areas like **concept representation and extraction**, **concept activation detection**, and **concept activation steering**. The goal is to investigate how concepts are represented within the models, how these concepts can be activated or detected during model inference, and how to steer activation vectors for more targeted control over model behavior. 
 
 -----
 
