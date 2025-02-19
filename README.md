@@ -49,6 +49,7 @@ Papers and resources that explore how concepts are represented in model hidden s
 - [NeurIPS 2024] - **From Causal to Concept-Based Representation Learning** - Goutham Rajendran, Simon Buchholz, Bryon Aragam, Bernhard Schölkopf, Pradeep Kumar Ravikumar. [[Paper](https://openreview.net/forum?id=r5nev2SHtJ)] [[Code](link)]
 - [ICML 2024] - **The Linear Representation Hypothesis and the Geometry of Large Language Models** - Kiho Park, Yo Joong Choe, Victor Veitch. [[Paper](https://arxiv.org/abs/2311.03658)] [[Code](https://github.com/KihoPark/linear_rep_geometry)]
 - [ICLR 2024] - **Demystifying Embedding Spaces using Large Language Models** - Guy Tennenholtz, Yinlam Chow, Chih-Wei Hsu, Jihwan Jeong, Lior Shani, Azamat Tulepbergenov, Deepak Ramachandran, Martin Mladenov, Craig Boutilier. [[Paper](https://arxiv.org/abs/2310.04475)]
+- [ICLR 2024] - **Identifying Representations for Intervention Extrapolation** - Sorawit Saengkyongam, Elan Rosenfeld, Pradeep Ravikumar, Niklas Pfister, Jonas Peters. [[Paper](https://arxiv.org/abs/2310.04295)]
 - [COLM 2024] - **The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets** - Samuel Marks, Max Tegmark. [[Paper](https://arxiv.org/abs/2310.06824)]
 - [ACL 2024] - **Language Models Linearly Represent Sentiment** - Curt Tigges, Oskar J. Hollinsworth, Atticus Geiger, Neel Nanda. [[Paper](https://aclanthology.org/2024.blackboxnlp-1.5.pdf)]
 - [ACL 2015] - **Linguistic Regularities in Continuous Space Word Representations** - Tomas Mikolov, Wen-tau Yih, Geoffrey Zweig. [[Paper](https://aclanthology.org/N13-1090/)]
@@ -68,8 +69,8 @@ Research on methods to detect and identify specific concepts or features in acti
 - [NeurIPS 2020] - **On Completeness-aware Concept-Based Explanations in Deep Neural Networks** - Chih-Kuan Yeh, Been Kim, Sercan Arik, Chun-Liang Li, Tomas Pfister, Pradeep Ravikumar. [[Paper](https://proceedings.neurips.cc/paper/2020/hash/ecb287ff763c169694f682af52c1f309-Abstract.html)][[Code](https://github.com/chihkuanyeh/concept_exp)]
 - [ICML 2018] - **Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)** - Been Kim, Martin Wattenberg, Justin Gilmer, Carrie Cai, James Wexler, Fernanda Viegas, Rory Sayres. [[Paper](https://arxiv.org/abs/1711.11279)][[Code](https://github.com/soumyadip1995/TCAV)]
  
-### Activation Vector Steering
-Methods about steering or manipulating activation vectors to influence model behavior or outputs.
+### Concept Activation Steering
+Methods about steering or manipulating activation status to influence model behavior or outputs.
 
 - [arXiv 2025] - **AxBench: Steering LLMs? Even Simple Baselines Outperform Sparse Autoencoders** - Zhengxuan Wu, Aryaman Arora, Atticus Geiger, Zheng Wang, Jing Huang, Dan Jurafsky, Christopher D. Manning, Christopher Potts. [[Paper](https://arxiv.org/abs/2501.17148)][[Code](https://arxiv.org/pdf/2501.17148)]
 - [ICLR 2025] - **Beyond Single Concept Vector: Modeling Concept Subspace in LLMs with Gaussian Distribution** - Haiyan Zhao, Heng Zhao, Bo Shen, Ali Payani, Fan Yang, Mengnan Du. [[Paper](https://arxiv.org/abs/2410.00153)]
@@ -86,6 +87,7 @@ Methods about steering or manipulating activation vectors to influence model beh
 - [NeurIPS 2024 workshop] - **Extracting Unlearned Information from LLMs with Activation Steering** - Atakan Seyitoğlu, Aleksei Kuvshinov, Leo Schwinn, Stephan Günnemann. [[Paper](https://arxiv.org/abs/2411.02631)]
 - [ICML 2024] - **In-context Vectors: Making In Context Learning More Effective and Controllable Through Latent Space Steering** - Sheng Liu, Haotian Ye, Lei Xing, James Zou. [[Paper](https://arxiv.org/abs/2311.06668)][[Code](https://github.com/shengliu66/ICV)]
 - [ICML 2024 workshop] - **Controlling Large Language Model Agents with Entropic Activation Steering** - Nate Rahn, Pierluca D'Oro, Marc G. Bellemare. [[Paper](https://arxiv.org/abs/2406.00244)]
+- [ICLR 2024] - **ReFT: Representation Finetuning for Language Models** - Zhengxuan Wu, Aryaman Arora, Zheng Wang, Atticus Geiger, Dan Jurafsky, Christopher D. Manning, Christopher Potts. [[Paper](https://arxiv.org/abs/2404.03592)][[Code](https://github.com/stanfordnlp/pyreft)]
 - [ICLR 2024] - **Function Vectors in Large Language Models** - Eric Todd, Millicent L. Li, Arnab Sen Sharma, Aaron Mueller, Byron C. Wallace, David Bau. [[Paper](https://arxiv.org/abs/2310.15213)][[Code](https://github.com/ericwtodd/function_vectors)]
 - [EMNLP 2024] - **Activation Scaling for Steering and Interpreting Language Models** - Niklas Stoehr, Kevin Du, Vésteinn Snæbjarnarson, Robert West, Ryan Cotterell, Aaron Schein. [[Paper](https://arxiv.org/abs/2410.04962)] [[Code](https://github.com/niklasstoehr/activationScaling)]
 - [EMNLP 2024] - **Householder Pseudo-Rotation: A Novel Approach to Activation Editing in LLMs with Direction-Magnitude Perspective** - Van-Cuong Pham, Thien Huu Nguyen. [[Paper](https://arxiv.org/abs/2409.10053)]
@@ -114,7 +116,7 @@ Methods about steering or manipulating activation vectors to influence model beh
 - [ICLR 2025] - **Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models** - Javier Ferrando, Oscar Obeso, Senthooran Rajamanoharan, Neel Nanda. [[Paper](https://arxiv.org/abs/2411.14257)]
 - [NeurIPS 2024] - **Concept Algebra for (Score-Based) Text-Controlled Generative Models** - Zihao Wang, Lin Gui, Jeffrey Negrea, Victor Veitch. [[Paper](https://arxiv.org/abs/2302.03693)][[Code](https://github.com/zihao12/concept-algebra-code)]
 - [NeurIPS 2023] - **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** - Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, Martin Wattenberg. [[Paper](https://arxiv.org/abs/2306.03341)][[Code](https://github.com/likenneth/honest_llama)]
-
+- [ICLR 2020] - **On the "steerability" of generative adversarial networks** - Ali Jahanian, Lucy Chai, Phillip Isola. [[Paper](https://arxiv.org/abs/1907.07171)][[Code](https://github.com/ali-design/gan_steerability)]
 
 ### Relevant Repo and Blog
 
