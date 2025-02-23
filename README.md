@@ -57,6 +57,7 @@ Papers and resources that explore how concepts are represented in model hidden s
 ### Concept Activation Detection
 Research on methods to detect and identify specific concepts or features in activations.
 
+- [arXiv 2025] - **SAIF: A Sparse Autoencoder Framework for Interpreting and Steering Instruction Following of Language Models** - Zirui He, Haiyan Zhao, Yiran Qiao, Fan Yang, Ali Payani, Jing Ma, Mengnan Du. [[Paper](https://arxiv.org/abs/2502.11356)]
 - [NeurIPS 2024] - **LG-CAV: Train Any Concept Activation Vector with Language Guidance** - Qihan Huang, Jie Song, Mengqi Xue, Haofei Zhang, Bingde Hu, Huiqiong Wang, Hao Jiang, Xingen Wang, Mingli Song. [[Paper](https://arxiv.org/abs/2410.10308)] [[Code](https://github.com/hqhQAQ/LG-CAV)]
 - [NeurIPS 2024] - **Uncovering Safety Risks in Open-source LLMs through Concept Activation Vector** - Zhihao Xu, Ruixuan Huang, Xiting Wang, Fangzhao Wu, Jing Yao, Xing Xie. [[Paper](https://arxiv.org/abs/2404.12038)][[Code](https://github.com/SproutNan/AI-Safety_SCAV)]
 - [MICCAI 2024] - **TextCAVs: Debugging vision models using text** - Angus Nicolson, Yarin Gal, J. Alison Noble. [[Paper](https://arxiv.org/abs/2408.08652)]
