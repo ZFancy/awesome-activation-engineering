@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/stars/ZFancy/awesome-activation-engineering?color=yellow&label=Star" alt="Stars" >
 </p>
 
-A curated list of research papers and resources related to ***Activation Engineering*** for foundation models, especially the Large Language Models (LLMs). 
+⭐ A curated list of research papers and resources related to ***Activation Engineering*** for foundation models, especially the Large Language Models (LLMs). 
 
 ### What is "Activation Engineering"?
 
@@ -24,8 +24,9 @@ Regarding the objectives of activation engineering in analyzing or steering mode
 
 This repo serves as a resource for researchers and developers interested in the inner workings of neural networks and LLMs, offering methods and experimental findings for advancing the field of activation engineering, which targets to understanding and manipulating model activations toward building more transparent and controllable powerful intelligent.
 
-> *This repo is ongoing update; If some related papers are missing, please contact us via pull requests :)*
+>💭 *This repo is ongoing update; If some related papers are missing, please contact me via pull requests :)*
 
+>🤗 Please also feel free to let me know if there is any mistake or any suggestion for better categorization, Thanks!
 
 ## Outline of this repo
 
