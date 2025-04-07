@@ -75,6 +75,7 @@ Research on methods to detect and identify specific concepts or features in acti
  
 ### Concept Activation Steering
 Methods about steering or manipulating activation status to influence model behavior or outputs.
+- [arXiv 2025] - **Taxonomy, Opportunities, and Challenges of Representation Engineering for Large Language Models** - Jan Wehner, Sahar Abdelnabi, Daniel Tan, David Krueger, Mario Fritz. [[Paper](https://arxiv.org/abs/2502.19649)] 
 - [arXiv 2025] - **Activation Space Interventions Can Be Transferred Between Large Language Models** - Narmeen Oozeer, Dhruv Nathawani, Nirmalendu Prakash, Michael Lan, Abir Harrasse, Amirali Abdullah. [[Paper](https://arxiv.org/abs/2503.04429)].
 - [arXiv 2025] - **SAIF: A Sparse Autoencoder Framework for Interpreting and Steering Instruction Following of Language Models** - Zirui He, Haiyan Zhao, Yiran Qiao, Fan Yang, Ali Payani, Jing Ma, Mengnan Du. [[Paper](https://arxiv.org/abs/2502.11356)]
 - [arXiv 2025] - **Uncovering Latent Chain of Thought Vectors in Language Models** - Jason Zhang, Scott Viteri. [[Paper](https://arxiv.org/abs/2409.14026)]
