@@ -43,6 +43,7 @@ This repo serves as a resource for researchers and developers interested in the 
 ### Concept Representation and Extraction
 Papers and resources that explore how concepts are represented in model hidden states.
 
+- [ICML 2025] - **The Geometry of Refusal in Large Language Models: Concept Cones and Representational Independence** - Tom Wollschläger, Jannes Elstner, Simon Geisler, Vincent Cohen-Addad, Stephan Günnemann, Johannes Gasteiger. [[Paper](https://arxiv.org/abs/2502.17420)]
 - [arXiv 2025] - **ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features** - Alec Helbling, Tuna Han Salih Meral, Ben Hoover, Pinar Yanardag, Duen Horng Chau. [[Paper](https://arxiv.org/abs/2502.04320)]
 - [ICLR 2025] - **Not All Language Model Features Are Linear** - Joshua Engels, Eric J Michaud, Isaac Liao, Wes Gurnee, Max Tegmark. [[Paper](https://openreview.net/forum?id=d63a4AM4hb)][[Code](https://github.com/JoshEngels/MultiDimensionalFeatures)]
 - [ICLR 2025] - **The Geometry of Categorical and Hierarchical Concepts in Large Language Models** - Kiho Park, Yo Joong Choe, Yibo Jiang, Victor Veitch. [[Paper](https://arxiv.org/abs/2406.01506)][[Code](https://github.com/KihoPark/LLM_Categorical_Hierarchical_Representations)]
