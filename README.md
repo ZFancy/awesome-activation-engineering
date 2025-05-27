@@ -44,6 +44,7 @@ This repo serves as a resource for researchers and developers interested in the 
 Papers and resources that explore how concepts are represented in model hidden states.
 
 - [arXiv 2025] - **Concept-Guided Interpretability via Neural Chunking** - Shuchen Wu, Stephan Alaniz, Shyamgopal Karthik, Peter Dayan, Eric Schulz, Zeynep Akata. [[Paper](https://arxiv.org/abs/2505.11576)]
+- [arXiv 2025] - **Shared Global and Local Geometry of Language Model Embeddings** - Andrew Lee, Melanie Weber, Fernanda Viégas, Martin Wattenberg. [[Paper](https://arxiv.org/abs/2503.21073)]
 - [ICML 2025] - **The Geometry of Refusal in Large Language Models: Concept Cones and Representational Independence** - Tom Wollschläger, Jannes Elstner, Simon Geisler, Vincent Cohen-Addad, Stephan Günnemann, Johannes Gasteiger. [[Paper](https://arxiv.org/abs/2502.17420)]
 - [arXiv 2025] - **ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features** - Alec Helbling, Tuna Han Salih Meral, Ben Hoover, Pinar Yanardag, Duen Horng Chau. [[Paper](https://arxiv.org/abs/2502.04320)]
 - [ICLR 2025] - **Not All Language Model Features Are Linear** - Joshua Engels, Eric J Michaud, Isaac Liao, Wes Gurnee, Max Tegmark. [[Paper](https://openreview.net/forum?id=d63a4AM4hb)][[Code](https://github.com/JoshEngels/MultiDimensionalFeatures)]
