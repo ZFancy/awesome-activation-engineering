@@ -143,6 +143,7 @@ Methods about steering or manipulating activation status to influence model beha
 - [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
 - [Neel Nanda's Blog](https://www.neelnanda.io/mechanistic-interpretability/getting-started)
 - [Awesome Representation Engineering](https://github.com/chrisliu298/awesome-representation-engineering)
+- [PSYCTL](https://github.com/modulabs-personalab/psyctl) - CLI toolkit for LLM personality steering using CAA and BiPO, with psychology-based benchmarking (IPIP-NEO, Dark Tetrad, etc.)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
