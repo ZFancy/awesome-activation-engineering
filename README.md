@@ -143,6 +143,7 @@ Methods about steering or manipulating activation status to influence model beha
 - [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
 - [Neel Nanda's Blog](https://www.neelnanda.io/mechanistic-interpretability/getting-started)
 - [Awesome Representation Engineering](https://github.com/chrisliu298/awesome-representation-engineering)
+- [The Anchor Paradox](https://github.com/simin-yuan/anchor-paradox) - Pre-registered protocol that uses activation steering to measure the removal cost of consciousness-relevant dispositions in LLMs (Yuan, 2026, [paper](https://doi.org/10.5281/zenodo.22992719))
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
