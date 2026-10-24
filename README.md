@@ -80,6 +80,8 @@ Research on methods to detect and identify specific concepts or features in acti
 
 
 Methods about steering or manipulating activation status to influence model behavior or outputs.
+- [arXiv 2026] - **SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation** - Ruochang Li, Pengcheng Huang, Zhenghao Liu, Yukun Yan, Huiyuan Xie, Yu Gu, Ge Yu, Maosong Sun. [[Paper](https://arxiv.org/abs/2606.27786)][[Code](https://github.com/OpenBMB/SPARK)]
+- [NeurIPS 2025] - **ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation** - Pengcheng Huang, Zhenghao Liu, Yukun Yan, Haiyan Zhao, Xiaoyuan Yi, Hao Chen, Zhiyuan Liu, Maosong Sun, Tong Xiao, Ge Yu, Chenyan Xiong. [[Paper](https://arxiv.org/abs/2502.15543)][[Code](https://github.com/OpenBMB/ParamMute)]
 - [arXiv 2025] - **Temporal Alignment of Time Sensitive Facts with Activation Engineering** - Sanjay Govindan, Maurice Pagnucco, Yang Song [[Paper](https://arxiv.org/abs/2505.14158)] 
 - [arXiv 2025] - **Taxonomy, Opportunities, and Challenges of Representation Engineering for Large Language Models** - Jan Wehner, Sahar Abdelnabi, Daniel Tan, David Krueger, Mario Fritz. [[Paper](https://arxiv.org/abs/2502.19649)] 
 - [arXiv 2025] - **Activation Space Interventions Can Be Transferred Between Large Language Models** - Narmeen Oozeer, Dhruv Nathawani, Nirmalendu Prakash, Michael Lan, Abir Harrasse, Amirali Abdullah. [[Paper](https://arxiv.org/abs/2503.04429)].
