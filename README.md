@@ -80,6 +80,7 @@ Research on methods to detect and identify specific concepts or features in acti
 
 
 Methods about steering or manipulating activation status to influence model behavior or outputs.
+- [NeurIPS 2026 Spotlight] - **Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior** - Tuc Nguyen, Thai Le. [[Paper](https://arxiv.org/abs/2606.08454)] [[Code](https://github.com/nguyentuc/INNSteer)]
 - [arXiv 2025] - **Temporal Alignment of Time Sensitive Facts with Activation Engineering** - Sanjay Govindan, Maurice Pagnucco, Yang Song [[Paper](https://arxiv.org/abs/2505.14158)] 
 - [arXiv 2025] - **Taxonomy, Opportunities, and Challenges of Representation Engineering for Large Language Models** - Jan Wehner, Sahar Abdelnabi, Daniel Tan, David Krueger, Mario Fritz. [[Paper](https://arxiv.org/abs/2502.19649)] 
 - [arXiv 2025] - **Activation Space Interventions Can Be Transferred Between Large Language Models** - Narmeen Oozeer, Dhruv Nathawani, Nirmalendu Prakash, Michael Lan, Abir Harrasse, Amirali Abdullah. [[Paper](https://arxiv.org/abs/2503.04429)].
